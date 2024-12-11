@@ -1,0 +1,27 @@
+.empty-div {
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: black;
+    height: 100%; 
+    width: 100%;
+    margin: 5px auto;
+    margin-top: 20px;
+    padding: 10px; 
+    box-sizing: border-box;
+    display: grid;
+  }
+
+  @media (min-width: 768px) {
+    .empty-div {
+      margin-left: 20px;
+      margin-top: 5px;
+      padding: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      gap: 10px;
+      
+    }
+  }
+
+  
