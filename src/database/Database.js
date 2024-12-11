@@ -113,6 +113,13 @@ export const latest = [
       description: 'Android Java',
       link:'https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_Django'
     },
+    {
+      id: 16,
+      image: 'https://github.com/user-attachments/assets/ec76f82b-afad-4567-a4f0-8d193a1afa46',
+      name: 'Portfolio Web App',
+      description: 'React.js',
+      link:'https://github.com/MalinduLiyanage/Portfolio'
+    },
 
     
   ];
@@ -201,7 +208,15 @@ export const javaandroid = [
 
 ];
 
-export const reactprj = [];
+export const reactprj = [
+  {
+    id: 16,
+    image: 'https://github.com/user-attachments/assets/ec76f82b-afad-4567-a4f0-8d193a1afa46',
+    name: 'Portfolio Web App',
+    description: 'React.js',
+    link:'https://github.com/MalinduLiyanage/Portfolio'
+  },
+];
 
 export const mlprj = [
   {

@@ -10,9 +10,7 @@ export default function ReactProjects() {
         <Header></Header>
         <div className='body-container'>
             <Sidebar_Component></Sidebar_Component>
-            <MainView_Component cat={4}>
-              <h4 className='empty-text'>No Projects updated yet</h4>
-            </MainView_Component>
+            <MainView_Component cat={4}></MainView_Component>
             <noscript>//Cat 4 for React.js Apps. Check Database.js for more</noscript>
         </div>
         
